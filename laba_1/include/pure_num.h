@@ -1,0 +1,2 @@
+
+bool PureNum(int num);
